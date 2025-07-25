@@ -1,0 +1,6 @@
+### Config ###
+*.json
+
+### Cache ###
+__pycache__/
+*.db
