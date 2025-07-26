@@ -58,6 +58,12 @@ This project is a **Modbus RTU to MQTT Adapter** with a built-in **web-based GUI
 - **Username**: admin  
 - **Password**: admin
 
+## Screenshots
+<img src="images/Screenshot_1.png" width="100%">
+<img src="images/Screenshot_2.png" width="100%">
+<img src="images/Screenshot_3.png" width="100%">
+<img src="images/Screenshot_4.png" width="100%">
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
